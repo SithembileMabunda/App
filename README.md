@@ -13,3 +13,4 @@
 - https://en.wikipedia.org/wiki/Web_application_firewall
 - https://en.wikipedia.org/wiki/Cache_stampede
 - https://en.wikipedia.org/wiki/SHA-2
+- https://en.wikipedia.org/wiki/OAuth
